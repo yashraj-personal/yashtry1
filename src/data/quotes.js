@@ -1,11 +1,11 @@
 /* Floating love quotes that drift through the Memory Universe. */
 
 export const QUOTES = [
-  'You are my today and all of my tomorrows.',
-  'In all the world, there is no heart for me like yours.',
+  'You have this strange talent of making someone angry and making them smile at the same time.',
+  'You can be JAADI for absolutely no reason... Bhim Pataru when you’re angry... Bakudu when you’re being impossible... and then suddenly become my little Gagali again.',
   'Every love story is beautiful, but ours is my favorite.',
-  'I have found the one whom my soul loves.',
-  'Grow old with me — the best is yet to be.',
-  'With you, home is wherever we are.',
+  'THE PART I DON’T ALWAYS SAY And yes, sometimes you seriously test my patience. There are moments when I get angry with you. Real angry.',
+  'Stay cute, Chakudu. Stay crazy, Gagalu and don’t change too much..',
+  'From someone who has tolerated your nonsense for far too long... and somehow still hasn’t had enough',
   'I still fall for you a little more every single day.',
 ]
