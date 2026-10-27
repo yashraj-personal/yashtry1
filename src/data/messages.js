@@ -4,7 +4,7 @@ export const MESSAGES = [
   {
     from: 'From Me',
     text:
-      'From the moment I met you, I knew my life would never be the same. Thank you for being my person, my calm, my home, my everything.',
+      'You can be JAADI for absolutely no reason... Bhim Pataru when you’re angry... Bakudu when you’re being impossible... and then suddenly become my little Gagali again.',
   },
   {
     from: 'From Me',
